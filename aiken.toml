@@ -1,0 +1,18 @@
+name = "tranquillite-007/multi-conditional-validator"
+version = "0.0.0"
+compiler = "v1.1.19"
+plutus = "v3"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'tranquillite-007/multi-conditional-validator'"
+
+[repository]
+user = "tranquillite-007"
+project = "multi-conditional-validator"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2.2.0"
+source = "github"
+
+[config]
