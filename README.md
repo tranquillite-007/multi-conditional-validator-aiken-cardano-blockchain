@@ -27,7 +27,7 @@ A Cardano smart contract project using [Aiken](https://aiken-lang.org) and [Mesh
 Clone the repository and install dependencies:
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/tranquillite-007/multi-conditional-validator-aiken-cardano-blockchain.git
 cd multi-conditional-validator
 npm install
 ```
